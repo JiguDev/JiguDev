@@ -156,21 +156,34 @@ An academic research project focused on identifying hallucinated outputs generat
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiguDev&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiguDev&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JiguDev&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="JiguDev GitHub Statistics"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiguDev&layout=compact&theme=tokyonight&hide_border=true"
+    alt="JiguDev Most Used Languages"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JiguDev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=JiguDev&theme=tokyonight&hide_border=true"
+    alt="JiguDev GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, engineers, researchers, and people passionate about technology.
+- **LinkedIn:** [linkedin.com/in/jigyasu-gajre](https://www.linkedin.com/in/jigyasu-gajre/)
+- **Email:** [Jigyasugajre@gmail.com](mailto:Jigyasugajre@gmail.com)
+- **GitHub:** [github.com/JiguDev](https://github.com/JiguDev)
 
-- **GitHub:** [@JiguDev](https://github.com/JiguDev)
+I'm always interested in connecting with software engineers, developers, researchers, and people passionate about technology.
 
 ---
 
