@@ -1,16 +1,179 @@
-## Hi there 👋
+# Hi, I'm Jigyasu Gajre 👋
 
-<!--
-**JiguDev/JiguDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Software Engineer | Full-Stack Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a Software Engineer with **3 years of professional experience** building web applications, mobile applications, and backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy designing scalable applications, solving complex engineering problems, exploring emerging technologies, and building products that deliver meaningful value.
+
+Currently, I'm expanding my expertise in **Artificial Intelligence and Applied AI** while continuing to work on modern software engineering solutions.
+
+---
+
+## 🚀 About Me
+
+- 💻 Senior Software Engineer at **IT Idol Technologies**
+- 📱 Experienced in React Native and modern frontend development
+- ⚙️ Backend development with Node.js, Express.js
+- 🧠 Interested in Artificial Intelligence, Machine Learning, and Generative AI
+- 🎓 Pursuing M.Tech in Applied AI
+- 🔬 Exploring research in LLM hallucination detection and reliability
+- 🌱 Continuously learning and building new things
+
+---
+
+## 🛠️ Technical Skills
+
+**Frontend Development**
+- React.js, React Native, TypeScript, JavaScript
+- HTML5, CSS3, Tailwind CSS
+- Ionic React, Vite
+
+**Backend Development**
+- Node.js, Express.js
+- GraphQL & REST APIs
+- Prisma ORM
+
+**Databases**
+- MySQL, PostgreSQL, MongoDB, Redis
+- Supabase
+- Firebase
+
+**AI / Machine Learning**
+- Python
+- Machine Learning and Deep Learning
+- Natural Language Processing
+- Generative AI and Large Language Models
+- Hugging Face, LoRA Fine-tuning
+
+**Tools & Technologies**
+- Git, GitHub, GutLab
+- Docker
+- GitHub Actions
+- AWS, Vercel
+- Capacitor
+- MacOS, Windows, Linux 
+
+---
+
+## 🔬 Areas of Interest
+
+- Artificial Intelligence & Generative AI
+- Large Language Models and Hallucination Detection
+- Full-Stack Application Development
+- Cross-Platform Mobile Development
+- System Design and Scalable Architectures
+- DevOps and Cloud Technologies
+- Cyber Security
+
+---
+
+## 🚀 Projects
+
+### 💼 Professional Projects — IT Idol Technologies
+
+Projects I contributed to as part of my professional software engineering experience.
+
+#### 1. IB (Creo / Cloubot) — EdTech Platform
+- Designed and developed web, backend, and mobile applications.
+- Integrated OpenAI APIs for conversational AI and automated student writing reviews.
+- Implemented AWS Lambda-based OCR workflows and Amazon S3 file storage.
+- Integrated Google APIs for direct YouTube video uploads.
+- Developed automated backend workflows using scheduled jobs.
+
+**Technologies:** React, React Native, Node.js, GraphQL, OpenAI API, AWS Lambda, Amazon S3
+
+#### 2. T-Therapy — Healthcare Application
+- Contributed to React Native application development.
+- Worked on feature development and application improvements.
+
+**Technology:** React Native
+
+#### 3. Trustin — Full-Stack Microservices
+- Contributed to full-stack microservices development.
+- Worked on system improvements, performance optimization, and maintainability.
+
+#### 4. Kotak VLOS
+- Contributed to mobile application development and feature implementation.
+
+**Technology:** React Native
+
+#### 5. Sewabharti & RAINN
+- Contributed to cross-functional mobile application development.
+
+**Technology:** React Native
+
+#### 6. E-commerce Mobile Application
+- Developed product listing, cart, and checkout functionality.
+- Integrated REST APIs for product and catalogue management.
+- Implemented Google and Facebook authentication.
+- Integrated Google Maps and geolocation for store locations and delivery.
+
+**Technologies:** React Native, REST APIs, Google Maps, Firebase
+
+---
+
+### 🧑‍💻 Personal & Academic Projects
+
+Projects developed independently or as part of my academic and research journey.
+
+#### 1. JiguDev — Personal Portfolio Ecosystem
+A personal developer portfolio designed to showcase my professional experience, technical skills, projects, achievements, and research.
+
+- Developing a modern, responsive, and interactive portfolio.
+- Building a separate Node.js and Express backend API.
+- Using Supabase PostgreSQL for planned data infrastructure.
+- Supporting web, PWA, Android, and iOS platforms.
+- Designing the architecture for scalability and maintainability.
+
+**Technologies:** React 19, TypeScript, Vite, Tailwind CSS 4, Ionic React, Capacitor, Node.js, Express, Supabase
+
+**Repositories:**
+- [Frontend](https://github.com/JiguDev/portfolio-frontend)
+- [Backend](https://github.com/JiguDev/portfolio-backend)
+
+#### 2. Hallucination Detection in Large Language Models
+An academic research project focused on identifying hallucinated outputs generated by Large Language Models and improving their factual reliability.
+
+- Studying hallucination patterns and factual inconsistencies in LLM-generated responses.
+- Exploring approaches for hallucination detection and evaluation.
+- Investigating NLP and machine learning techniques for improving LLM reliability.
+- Developing the research as part of my Applied AI academic journey.
+
+**Focus Areas:** Artificial Intelligence, NLP, Large Language Models, Hallucination Detection, Model Evaluation
+
+---
+
+### 🔬 Research Interests
+- Generative AI and Large Language Models
+- LLM Hallucination Detection and Reliability
+- Machine Learning and Deep Learning
+- Natural Language Processing
+- AI-powered Software Engineering
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JiguDev&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiguDev&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JiguDev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, engineers, researchers, and people passionate about technology.
+
+- **GitHub:** [@JiguDev](https://github.com/JiguDev)
+
+---
+
+<p align="center">
+  <i>"Building, learning, experimenting, and evolving — one commit at a time."</i>
+</p>
